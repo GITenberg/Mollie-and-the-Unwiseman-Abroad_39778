@@ -1,0 +1,40 @@
+_repo: Mollie-and-the-Unwiseman-Abroad_39778
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Drayton, Grace G. (Grace Gebbie)
+    aliases:
+    - Wiederseim, G. G.
+    - Weiderseim, Grace G.
+    - Wiederseim, Grace G.
+    - Gebbie, Viola Grace
+    gutenberg_agent_id: '40227'
+    url: http://www.gutenberg.org/2009/agents/40227
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcsh 'Playmates -- Juvenile fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PZ'
+title: Mollie and the Unwiseman Abroad
+url: http://www.gutenberg.org/ebooks/39778
